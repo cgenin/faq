@@ -1,0 +1,12 @@
+{
+  "name": "faq-blog",
+  "version": "1.0.0",
+  "description": "An faq page",
+  "main": "index.js",
+  "author": "christophe genin",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cuttlebelle": "^1.0.0-alpha.51"
+  }
+}
